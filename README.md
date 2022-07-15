@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+ 
 **eneassena/eneassena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="left">   <a href="https://github.com/eneassena%22%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eneassena&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true%22/%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneassena&layout=compact&langs_count=7&theme=github_dark%22/%3E </div>
+ 
