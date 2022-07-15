@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="left">   <a href="https://github.com/eneassena%22%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eneassena&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true%22/%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneassena&layout=compact&langs_count=7&theme=github_dark%22/%3E </div>
+<div align="left">
+<a href="https://github.com/eneassena"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eneassena&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneassena&layout=compact&langs_count=7&theme=github_dark"> </div>
  
